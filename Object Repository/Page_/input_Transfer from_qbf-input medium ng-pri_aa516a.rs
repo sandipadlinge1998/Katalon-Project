@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Transfer from_qbf-input medium ng-pri_aa516a</name>
+   <tag></tag>
+   <elementGuidId>2a538a6c-4092-4dc6-903c-24227ee9deee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.qbf-input.medium.ng-pristine.ng-untouched.ng-valid.ng-empty</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='qdf-fill-box']/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9665d4d0-aac8-4e59-b1b5-97aba9478f84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qbf-input medium ng-pristine ng-untouched ng-valid ng-empty</value>
+      <webElementGuid>1312b55b-2918-4ce5-8399-51d31cedfb8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>userCtrl.forms.billPayment.account</value>
+      <webElementGuid>893b32af-272b-4e23-9d24-69b95a6707a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qbf-verify-box&quot;)/form[@class=&quot;ng-pristine ng-valid ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@id=&quot;qdf-fill-box&quot;]/div[@class=&quot;col-md-9&quot;]/input[@class=&quot;qbf-input medium ng-pristine ng-untouched ng-valid ng-empty&quot;]</value>
+      <webElementGuid>698b8cc5-50d0-425e-9076-43216b8eddef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='qdf-fill-box']/div[2]/input</value>
+      <webElementGuid>4964f5da-1214-460a-bba6-319e2dcddd4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>95a01fc4-f94a-4e9e-bf8e-e17d92487f60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

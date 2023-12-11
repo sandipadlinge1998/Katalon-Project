@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Transfer from_qbf-input medium ng-unt_8ba559</name>
+   <tag></tag>
+   <elementGuidId>0fcce22c-71b0-4cf3-a7f8-320279cafb02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.qbf-input.medium.ng-untouched.ng-valid.ng-not-empty.ng-dirty.ng-valid-parse</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='qdf-fill-box']/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>27a16140-d5df-4037-a8b6-337cb2119240</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qbf-input medium ng-untouched ng-valid ng-not-empty ng-dirty ng-valid-parse</value>
+      <webElementGuid>9989bc2f-df80-4fb6-ad0b-06af29fc313f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>userCtrl.forms.billPayment.account</value>
+      <webElementGuid>79f5605e-3720-4575-a3de-9a5e9cc2ed50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qbf-verify-box&quot;)/form[@class=&quot;ng-valid ng-scope ng-dirty ng-valid-parse&quot;]/div[@class=&quot;row&quot;]/div[@id=&quot;qdf-fill-box&quot;]/div[@class=&quot;col-md-9&quot;]/input[@class=&quot;qbf-input medium ng-untouched ng-valid ng-not-empty ng-dirty ng-valid-parse&quot;]</value>
+      <webElementGuid>ba12c302-84d6-47dc-a921-c6ea87820395</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='qdf-fill-box']/div[2]/input</value>
+      <webElementGuid>b07bca74-0d1f-45c2-b48f-d82df5602c1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>416e2fc8-8e23-40ba-bd0f-8ed024f3bd14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

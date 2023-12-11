@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>625e6d26-81e5-4cb6-9eec-2ce2879d8bd7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-body']/div/div[2]/div/div[2]/div[3]/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>04d98d26-662e-4595-9a12-e2295df9edd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>client/images/creditcard/cc_smallbusiness.png</value>
+      <webElementGuid>2e5c4934-044a-4c86-91f6-9fe76706b9b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-body&quot;)/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid qbp-menu ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10 col-sm-10 col-xs-10&quot;]/div[@class=&quot;col-md-3 col-sm-6 col-xs-12 qb-center&quot;]/div[@class=&quot;qbp-menu-item&quot;]/img[1]</value>
+      <webElementGuid>1c8af107-1cc7-454c-b78e-5d31c1b3c3fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-body']/div/div[2]/div/div[2]/div[3]/div/img</value>
+      <webElementGuid>e3e3704a-7b8b-4f2a-bfbb-9df0b9569931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/img</value>
+      <webElementGuid>16cbfaf0-98c5-4463-8e87-fccf614ea8a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'client/images/creditcard/cc_smallbusiness.png']</value>
+      <webElementGuid>75208122-8715-41c2-9033-1aa20c445453</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_YES</name>
+   <tag></tag>
+   <elementGuidId>561c9120-e061-4c99-890c-a02e942a821b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.qbb-searchresult-taghead.expressbanking.ng-binding.seagreen</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='qbb-2nd-box']/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>640dc572-abe1-4aa6-8e91-0c4579dc8c5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qbb-searchresult-taghead expressbanking ng-binding seagreen</value>
+      <webElementGuid>6b576eb0-e2e4-4675-b16b-86e3f49fa04c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>branch.express_banking === 'YES' ? 'seagreen': 'salmon'</value>
+      <webElementGuid>563b9b3e-f698-4dc5-a259-9a8c8d4e86b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    YES
+                                </value>
+      <webElementGuid>3b51b556-10d9-42af-be9d-d155b2b2ca3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-body&quot;)/div[@class=&quot;container-fluid qbb-searchresults-container ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10&quot;]/div[@class=&quot;qbb-searchresult ng-scope border&quot;]/div[@id=&quot;qb-branch-atm&quot;]/div[@id=&quot;qbb-2nd-box&quot;]/div[@class=&quot;col-md-9 qb-no-xpadding&quot;]/div[@class=&quot;qbb-searchresult-taginfo&quot;]/div[@class=&quot;qbb-searchresult-taghead expressbanking ng-binding seagreen&quot;]</value>
+      <webElementGuid>cefeecdd-5f7f-4b89-a9e7-12da23faa911</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='qbb-2nd-box']/div[2]/div/div</value>
+      <webElementGuid>81feed0b-aa09-4ed2-b05f-c5323a3c0658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ATM'])[1]/following::div[6]</value>
+      <webElementGuid>9ef69f8c-c43d-4f97-85c7-9587e8da2cf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat-Sun : Closed'])[1]/following::div[14]</value>
+      <webElementGuid>23b29068-8e1b-4a94-a88f-ebcf443776ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPRESS BANKING'])[1]/preceding::div[1]</value>
+      <webElementGuid>fde9daf5-ec02-41a5-a4d5-2713281f2815</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[1]/preceding::div[4]</value>
+      <webElementGuid>2ab59bba-ef98-4ba4-a20d-1487a3cb5683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='YES']/parent::*</value>
+      <webElementGuid>4c6772c3-366c-4ead-bb37-db7f1fe34c9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div[2]/div[2]/div/div</value>
+      <webElementGuid>d1f5cc4f-d185-4092-82fd-0c70f831abe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                                    YES
+                                ' or . = '
+                                    YES
+                                ')]</value>
+      <webElementGuid>8a146700-0256-44f6-9fd6-55a39bf1a0bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

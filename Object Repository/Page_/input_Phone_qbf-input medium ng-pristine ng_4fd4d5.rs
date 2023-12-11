@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Phone_qbf-input medium ng-pristine ng_4fd4d5</name>
+   <tag></tag>
+   <elementGuidId>6e8d71ab-4cd8-4232-85f6-eff107eb7403</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#user-Phone > input.qbf-input.medium.ng-pristine.ng-untouched.ng-valid.ng-not-empty</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='user-Phone']/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6f8f01ff-99a8-4ad9-a980-03087046a821</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qbf-input medium ng-pristine ng-untouched ng-valid ng-not-empty</value>
+      <webElementGuid>9a8de55d-a7ce-4fc4-9e9a-415e4776f208</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>userCtrl.updateUser.phone</value>
+      <webElementGuid>097517b9-ff53-4c0c-87ac-1357e79310d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qb-form-body&quot;)/form[@class=&quot;ng-pristine ng-valid ng-scope ng-valid-email&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;qbf-form-row col-md-12&quot;]/div[@id=&quot;user-Phone&quot;]/input[@class=&quot;qbf-input medium ng-pristine ng-untouched ng-valid ng-not-empty&quot;]</value>
+      <webElementGuid>53750ea5-5eef-469d-82b2-b970e6baf45f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='user-Phone']/input</value>
+      <webElementGuid>854fae5a-7a9c-4ab3-a3a6-5967a926b6d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/input</value>
+      <webElementGuid>310f6dd8-bd28-43a9-8995-337493ff65ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

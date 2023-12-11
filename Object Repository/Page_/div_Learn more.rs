@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Learn more</name>
+   <tag></tag>
+   <elementGuidId>59e06ab5-881d-43e4-9022-82fe18d7830c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='signin-card-learn'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5bd7d3f1-34ef-4ebb-b99f-43386410b1ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>signin-card-learn</value>
+      <webElementGuid>e286b571-1121-464c-9871-7b34a323ed30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qb-learnmore</value>
+      <webElementGuid>37251886-af6f-4e3f-9eb4-207b96ecb6c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Learn more   > </value>
+      <webElementGuid>42e9866d-150c-4e34-9959-f243cc0e16f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;signin-card-box&quot;)/div[@class=&quot;col-md-3 col-sm-6 col-xs-12&quot;]/div[@id=&quot;signin-card-learn&quot;]</value>
+      <webElementGuid>d176eb7c-abf8-44f2-9a66-6b597aa9f41f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='signin-card-learn'])[3]</value>
+      <webElementGuid>152d161b-c36b-4bc8-ae1b-e498be166ec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='signin-card-box']/div[3]/div[4]</value>
+      <webElementGuid>e9fbc3ed-e1de-4139-9bab-4735157312a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get a step-by-step guidance from an experienced mortgage banker.'])[1]/following::div[1]</value>
+      <webElementGuid>d824fc89-0ce2-48c5-a7ff-3dadf4cdc85e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mortgage'])[2]/following::div[2]</value>
+      <webElementGuid>731207bb-8d3e-412b-a0a9-de0de0c8c394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invest'])[2]/preceding::div[2]</value>
+      <webElementGuid>3d132c40-5d56-48fb-b68d-d136eddb36cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal, ongoing guidance and advice to our broad range of products.'])[1]/preceding::div[3]</value>
+      <webElementGuid>cbeaa098-c799-498c-a49d-e36364a445ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[4]</value>
+      <webElementGuid>b1e495d7-f735-4fde-90ad-2d0269fd10c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'signin-card-learn' and (text() = 'Learn more   > ' or . = 'Learn more   > ')]</value>
+      <webElementGuid>5890d28b-58da-4b83-9c22-688debb014cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
